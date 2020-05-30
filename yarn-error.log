@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js build
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Perl64\site\bin;C:\Perl64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Smart Projects\IsoBuster;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Git\cmd;C:\Users\Igor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Yarn\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Go\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\NoteBook FanControl\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\Igor\AppData\Local\Microsoft\WindowsApps;C:\Users\Igor\AppData\Local\Yarn\bin;C:\Users\Igor\go\bin;C:\Users\Igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Igor\AppData\Local\atom\bin;C:\Users\Igor\AppData\Roaming\npm
@@ -128,7 +128,7 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
 
 Trace: 
-  Error: Command "start" not found.
+  Error: Command "build" not found.
       at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
       at C:\Program Files (x86)\Yarn\lib\cli.js:87307:17
       at Generator.next (<anonymous>)
