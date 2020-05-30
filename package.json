@@ -1,0 +1,12 @@
+{
+  "name": "hxydisplay",
+  "version": "1.0.0",
+  "description": "hxy display",
+  "main": "index.js",
+  "author": "/",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ethers": "^4.0.47"
+  }
+}
