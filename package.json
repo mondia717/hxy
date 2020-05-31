@@ -1,11 +1,14 @@
 {
   "name": "hxydisplay",
   "version": "1.0.0",
-  "scripts" : {
-	"start" : "node index.js"
-  },
   "description": "hxy display",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "/",
   "license": "MIT",
   "private": false,
