@@ -1,6 +1,6 @@
 const http = require('http')
 const fs = require('fs')
-const port = 5000
+const port = process.env.PORT || 80
 
 let ethers = require('ethers')
 
